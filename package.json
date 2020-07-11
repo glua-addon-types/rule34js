@@ -4,14 +4,24 @@
 	"description": "typings for rule34js lua addon",
 	"main": "",
 	"types": "index",
-	"devDependencies": {
-		"typescript-to-lua": "0.34.0"
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/glua-addon-types/rule34js.git"
 	},
-	"scripts": {
-		"build": "tstl",
-		"dev": "tstl --watch"
+	"keywords": [
+		"glua",
+		"flex",
+		"simfphys",
+		"gmod",
+		"lua",
+		"types",
+		"typings",
+		"typescript"
+	],
+	"author": "SupinePandora43",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/glua-addon-types/rule34js/issues"
 	},
-	"author": {
-		"name": "SupinePandora43"
-	}
+	"homepage": "https://github.com/glua-addon-types/rule34js#readme"
 }
