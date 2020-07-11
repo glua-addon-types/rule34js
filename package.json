@@ -1,0 +1,17 @@
+{
+	"name": "@glua-addon-types/rule34js",
+	"version": "1.0.0",
+	"description": "typings for rule34js lua addon",
+	"main": "",
+	"types": "index",
+	"devDependencies": {
+		"typescript-to-lua": "0.34.0"
+	},
+	"scripts": {
+		"build": "tstl",
+		"dev": "tstl --watch"
+	},
+	"author": {
+		"name": "SupinePandora43"
+	}
+}
